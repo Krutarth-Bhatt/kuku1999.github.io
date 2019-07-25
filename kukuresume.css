@@ -1,0 +1,16 @@
+
+.left{
+	display:inline-block;
+	width: 35%;
+	float: left;
+}
+.center{
+	display:inline-block;
+	width: 35%;
+	float: center;
+}
+.right{
+	display:inline-block;
+	width: 30%;
+	float: right;	
+}
